@@ -2,7 +2,7 @@
     "name": "V2Ray",
     "description": "Deploy V2ray on Heroku.",
     "keywords": [
-        "V2Ray"
+        "YPearl"
     ],
     "env": {
         "UUID": {
@@ -14,7 +14,7 @@
             "required": false
         }
     },
-    "website": "https://github.com/zizifn/v2ray-heroku",
-    "repository": "https://github.com/zizifn/v2ray-heroku",
+    "website": "https://github.com/YPearl/v2ray-heroku",
+    "repository": "https://github.com/YPearl/v2ray-heroku",
     "stack": "container"
 }
